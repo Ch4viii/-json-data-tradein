@@ -1,0 +1,48 @@
+{
+    "iPhone 11": {
+        "64 GB": {
+            "Grado A": 200000,
+            "Grado B": 100000
+        },
+        "128 GB": {
+            "Grado A": 200000,
+            "Grado B": 100000
+        },
+        "256 GB": {
+            "Grado A": 200000,
+            "Grado B": 100000
+        }
+    },
+    "iPhone 15 Pro": {
+        "1 TB": {
+            "Grado A": 825000,
+            "Grado B": 660000
+        },
+        "512 GB": {
+            "Grado A": 800000,
+            "Grado B": 640000
+        },
+        "256 GB": {
+            "Grado A": 750000,
+            "Grado B": 600000
+        },
+        "128 GB": {
+            "Grado A": 700000,
+            "Grado B": 560000
+        }
+    },
+    "iPhone 15 Plus": {
+        "512 GB": {
+            "Grado A": 700000,
+            "Grado B": 550000
+        },
+        "256 GB": {
+            "Grado A": 650000,
+            "Grado B": 500000
+        },
+        "128 GB": {
+            "Grado A": 600000,
+            "Grado B": 450000
+        }
+    }
+}
