@@ -1,48 +1,260 @@
 {
     "iPhone 11": {
         "64 GB": {
-            "Grado A": 300001,
-            "Grado B": 100000
+            "Grado A": 100000,
+            "Grado B": 70000
         },
         "128 GB": {
-            "Grado A": 200000,
-            "Grado B": 100000
+            "Grado A": 100000,
+            "Grado B": 70000
         },
         "256 GB": {
-            "Grado A": 200000,
-            "Grado B": 100000
+            "Grado A": 100000,
+            "Grado B": 70000
+        }
+    },
+    "iPhone 12 Mini": {
+        "64 GB": {
+            "Grado A": 225000,
+            "Grado B": 157000
+        },
+        "128 GB": {
+            "Grado A": 250000,
+            "Grado B": 192000
+        },
+        "256 GB": {
+            "Grado A": 250000,
+            "Grado B": 210000
+        }
+    },
+    "iPhone 12": {
+        "64 GB": {
+            "Grado A": 250000,
+            "Grado B": 175000
+        },
+        "128 GB": {
+            "Grado A": 275000,
+            "Grado B": 192000
+        },
+        "256 GB": {
+            "Grado A": 300000,
+            "Grado B": 210000
+        }
+    },
+    "iPhone 12 Pro": {
+        "128 GB": {
+            "Grado A": 300000,
+            "Grado B": 210000
+        },
+        "256 GB": {
+            "Grado A": 350000,
+            "Grado B": 245000
+        },
+        "512 GB": {
+            "Grado A": 375000,
+            "Grado B": 262000
+        }
+    },
+    "iPhone 12 Pro Max": {
+        "128 GB": {
+            "Grado A": 350000,
+            "Grado B": 245000
+        },
+        "256 GB": {
+            "Grado A": 375000,
+            "Grado B": 262000
+        },
+        "512 GB": {
+            "Grado A": 400000,
+            "Grado B": 280000
+        }
+    },
+    "IPhone 13 Mini": {
+        "128 GB": {
+            "Grado A": 325000,
+            "Grado B": 243000
+        },
+        "256 GB": {
+            "Grado A": 350000,
+            "Grado B": 262000
+        },
+        "512 GB": {
+            "Grado A": 350000,
+            "Grado B": 262000
+        }
+    },
+    "IPhone 13": {
+        "128 GB": {
+            "Grado A": 375000,
+            "Grado B": 281000
+        },
+        "256 GB": {
+            "Grado A": 425000,
+            "Grado B": 318000
+        },
+        "512 GB": {
+            "Grado A": 425000,
+            "Grado B": 337000
+        }
+    },
+    "IPhone 13 Pro": {
+        "128 GB": {
+            "Grado A": 500000,
+            "Grado B": 375000
+        },
+        "256 GB": {
+            "Grado A": 525000,
+            "Grado B": 393000
+        },
+        "512 GB": {
+            "Grado A": 550000,
+            "Grado B": 412000
+        },
+        "1 TB": {
+            "Grado A": 575000,
+            "Grado B": 431000
+        }
+    },
+    "IPhone 13 Pro Max": {
+        "128 GB": {
+            "Grado A": 500000,
+            "Grado B": 375000
+        },
+        "256 GB": {
+            "Grado A": 525000,
+            "Grado B": 393000
+        },
+        "512 GB": {
+            "Grado A": 550000,
+            "Grado B": 412000
+        },
+        "1 TB": {
+            "Grado A": 550000,
+            "Grado B": 412000
+        }
+    },
+    "iPhone 14": {
+        "128 GB": {
+            "Grado A": 450000,
+            "Grado B": 360000
+        },
+        "256 GB": {
+            "Grado A": 475000,
+            "Grado B": 380000
+        },
+        "512 GB": {
+            "Grado A": 500000,
+            "Grado B": 400000
+        }
+    },
+    "iPhone 14 Plus": {
+        "128 GB": {
+            "Grado A": 525000,
+            "Grado B": 420000
+        },
+        "256 GB": {
+            "Grado A": 550000,
+            "Grado B": 440000
+        },
+        "512 GB": {
+            "Grado A": 550000,
+            "Grado B": 440000
+        }
+    },
+    "iPhone 14 Pro": {
+        "128 GB": {
+            "Grado A": 600000,
+            "Grado B": 480000
+        },
+        "256 GB": {
+            "Grado A": 675000,
+            "Grado B": 540000
+        },
+        "512 GB": {
+            "Grado A": 700000,
+            "Grado B": 560000
+        },
+        "1 TB": {
+            "Grado A": 700000,
+            "Grado B": 560000
+        }
+    },
+    "iPhone 14 Pro Max": {
+        "128 GB": {
+            "Grado A": 650000,
+            "Grado B": 520000
+        },
+        "256 GB": {
+            "Grado A": 725000,
+            "Grado B": 580000
+        },
+        "512 GB": {
+            "Grado A": 750000,
+            "Grado B": 600000
+        },
+        "1 TB": {
+            "Grado A": 750000,
+            "Grado B": 600000
+        }
+    },
+    "iPhone 15": {
+        "128 GB": {
+            "Grado A": 500000,
+            "Grado B": 400000
+        },
+        "256 GB": {
+            "Grado A": 575000,
+            "Grado B": 460000
+        },
+        "512 GB": {
+            "Grado A": 575000,
+            "Grado B": 460000
+        }
+    },
+    "iPhone 15 Plus": {
+        "128 GB": {
+            "Grado A": 575000,
+            "Grado B": 460000
+        },
+        "256 GB": {
+            "Grado A": 650000,
+            "Grado B": 520000
+        },
+        "512 GB": {
+            "Grado A": 650000,
+            "Grado B": 520000
         }
     },
     "iPhone 15 Pro": {
-        "1 TB": {
-            "Grado A": 825000,
-            "Grado B": 660000
+        "128 GB": {
+            "Grado A": 675000,
+            "Grado B": 540000
+        },
+        "256 GB": {
+            "Grado A": 700000,
+            "Grado B": 560000
         },
         "512 GB": {
             "Grado A": 800000,
             "Grado B": 640000
         },
-        "256 GB": {
-            "Grado A": 750000,
-            "Grado B": 600000
-        },
-        "128 GB": {
-            "Grado A": 700000,
-            "Grado B": 560000
+        "1 TB": {
+            "Grado A": 825000,
+            "Grado B": 660000
         }
     },
-    "iPhone 15 Plus": {
-        "512 GB": {
-            "Grado A": 700000,
-            "Grado B": 550000
-        },
+    "iPhone 15 Pro Max": {
         "256 GB": {
-            "Grado A": 650000,
-            "Grado B": 500000
+            "Grado A": 800000,
+            "Grado B": 640000
         },
-        "128 GB": {
-            "Grado A": 600000,
-            "Grado B": 450000
+        "512 GB": {
+            "Grado A": 875000,
+            "Grado B": 700000
+        },
+        "1 TB": {
+            "Grado A": 875000,
+            "Grado B": 700000
         }
     }
 }
