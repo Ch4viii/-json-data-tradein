@@ -1,18 +1,4 @@
 {
-    "iPhone 11": {
-        "64 GB": {
-            "Grado A": 100000,
-            "Grado B": 70000
-        },
-        "128 GB": {
-            "Grado A": 100000,
-            "Grado B": 70000
-        },
-        "256 GB": {
-            "Grado A": 100000,
-            "Grado B": 70000
-        }
-    },
     "iPhone 12 Mini": {
         "64 GB": {
             "Grado A": 225000,
