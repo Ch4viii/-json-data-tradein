@@ -71,16 +71,16 @@
     },
     "IPhone 13": {
         "128 GB": {
-            "Grado A": 375000,
-            "Grado B": 281000
+            "Grado A": 275000,
+            "Grado B": 206250
         },
         "256 GB": {
-            "Grado A": 425000,
-            "Grado B": 318000
+            "Grado A": 375000,
+            "Grado B": 281250
         },
         "512 GB": {
-            "Grado A": 425000,
-            "Grado B": 337000
+            "Grado A": 405000,
+            "Grado B": 303750
         }
     },
     "IPhone 13 Pro": {
