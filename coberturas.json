@@ -242,5 +242,79 @@
             "Grado A": 800000,
             "Grado B": 640000
         }
+    },
+    "iPhone 16": {
+        "128 GB": {
+            "Grado A": 485000,
+            "Grado B": 350000
+        },
+        "256 GB": {
+            "Grado A": 550000,
+            "Grado B": 375000
+        },
+        "512 GB": {
+            "Grado A": 600000,
+            "Grado B": 425000
+        }
+    },
+    "iPhone 16e": {
+        "128 GB": {
+            "Grado A": 375000,
+            "Grado B": 275000
+        },
+        "256 GB": {
+            "Grado A": 410000,
+            "Grado B": 300000
+        },
+        "512 GB": {
+            "Grado A": 450000,
+            "Grado B": 325000
+        }
+    },
+    "iPhone 16 Plus": {
+        "128 GB": {
+            "Grado A": 500000,
+            "Grado B": 350000
+        },
+        "256 GB": {
+            "Grado A": 550000,
+            "Grado B": 375000
+        },
+        "512 GB": {
+            "Grado A": 600000,
+            "Grado B": 425000
+        }
+    },
+    "iPhone 16 Pro": {
+        "128 GB": {
+            "Grado A": 580000,
+            "Grado B": 400000
+        },
+        "256 GB": {
+            "Grado A": 675000,
+            "Grado B": 540000
+        },
+        "512 GB": {
+            "Grado A": 650000,
+            "Grado B": 450000
+        },
+        "1 TB": {
+            "Grado A": 700000,
+            "Grado B": 500000
+        }
+    },
+    "iPhone 16 Pro Max": {
+        "256 GB": {
+            "Grado A": 650000,
+            "Grado B": 450000
+        },
+        "512 GB": {
+            "Grado A": 700000,
+            "Grado B": 500000
+        },
+        "1 TB": {
+            "Grado A": 750000,
+            "Grado B": 525000
+        }
     }
 }
